@@ -1,45 +1,52 @@
 #+TITLE:Roadmap
 
-* DONE Rajouter la quatrième photo
-* Changer la photo d'Arnaud Ladrange
-* DONE Intégrer les mini CV
+* Old
+** DONE Rajouter la quatrième photo
+** Changer la photo d'Arnaud Ladrange
+** DONE Intégrer les mini CV
 ** DONE Ajouter un pointer link
 ** DONE Virer « contribue à la création de pe2c »
-* DONE Changer les fonctions de l'équipe
+** DONE Changer les fonctions de l'équipe
 Mettre « Président, associé » et trois autres « Associé »
-* TODO Faire une version anglophone
-* TODO Intégrer le logo + changer de charte graphique
+** TODO Faire une version anglophone
+** TODO Intégrer le logo + changer de charte graphique
 En bas à droite de la partie (page) d'accueil et en favicon.
-* TODO Evaluer la complexité de chaque chose à faire
-* Changer le texte
+** DONE Evaluer la complexité de chaque chose à faire
+** DONE Changer le texte
 ** DONE Changer le titre en haut à droite
 ** DONE Terminer la mise en page
 Mettre en forme le texte, changer les images
 ** DONE Changer la police
 Utiliser https://fonts.google.com/specimen/Roboto partout
-* DONE Partie ~Activité~
+** DONE Partie ~Activité~
 Renommer en ~Nos clients~
-* DONE Partie ~Contact~
+** DONE Partie ~Contact~
 - Afficher l'adresse de contact
 ** Envoi d'email depuis le site
 Voir si l'on peut facilement envoyer un mail depuis le site.
-* DONE Partie ~Service~** Renommer en ~Prestations~
+** DONE Partie ~Service~** Renommer en ~Prestations~
 Il y en aura quatre ou cinq
-* DONE Partie « Pourquoi choisir PE2C »
+** DONE Partie « Pourquoi choisir PE2C »
 Une mise en page avec 4 parties en quinquonce.
-* DONE Partie « Valeur ajoutée »
+** DONE Partie « Valeur ajoutée »
 Renommer dans la page pour « /Notre/ valeur ajoutée »
-* DONE Essayer de dépixelliser la nouvelle photo d'Arnaud Ladrange
+** DONE Essayer de dépixelliser la nouvelle photo d'Arnaud Ladrange
 https://github.com/alexjc/neural-enhance
-* Corriger une adresse mail
+** DONE Corriger une adresse mail
 ** DONE Créer une autre redirection
 Modifier le site (si besoin)
 Modifier l'indirection contact@pe2c.com
-* Gestion de toute la partie technique
+** TODO Gestion de toute la partie technique
 - Création et réservation du nom de domaine
 - Adresses mail
 - Slogan
 - Site (conception, réalisation)
 - Solution de partage de fichier adaptée (en l'occurence : pas Google
   Drive, MEGA) après en avoir testée plusieurs.
-* Changer le RIB de facturation du site
+** DONE Changer le RIB de facturation du site
+
+* TODO New
+** TODO Changer la photo d'Arnaud Ladrange
+** TODO Intégrer le logo
+** TODO Faire un bouton pour passer en anglais
+** TODO Réparer l'affichage sur mobile
